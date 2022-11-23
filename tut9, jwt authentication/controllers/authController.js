@@ -28,7 +28,7 @@ const handleLogin = async (req, res) => {
       },
       process.env.ACCESS_TOKEN_SECRET,
       {
-        expiresIn: "30s",
+        expiresIn: "300s",
       }
     );
     const refreshToken = jwt.sign(
@@ -40,7 +40,7 @@ const handleLogin = async (req, res) => {
         expiresIn: "1d",
       }
     );
-
+      // saving refresh token with current user
     const otherUsers = usersDB.users.filter(
       (person) => person.username !== foundUser.username
     );
