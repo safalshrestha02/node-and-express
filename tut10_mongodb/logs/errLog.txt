@@ -6,3 +6,34 @@
 20221128	19:34:35	cb1bae67-4d06-4cc7-b66f-3fb22ec513ce	ReferenceError: whitelist is not defined
 20221128	19:35:58	ededfaa6-f76a-47e1-9760-f7606b8ec73b	ReferenceError: whitelist is not defined
 20221128	19:36:06	c6aad7bd-2a16-431a-8ddb-8a58a5a2dbfb	ReferenceError: whitelist is not defined
+20221130	23:41:03	43fc6057-dc3f-4e6f-8ae1-b61d99558cd2	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:26	12f0f9e4-2393-4233-9ca0-d2f23f8c7c0e	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:27	d988dc8a-68a0-4485-90ca-c9676ff160ee	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:28	d07eea58-1407-47ef-b8ec-b3d2348cd278	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:28	a7d6dff2-4eb3-4e79-89b9-e0d409cc0623	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:28	8c26ad96-bb8c-475f-ab2c-92ccd1596d0d	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:28	aea49062-a677-4015-a3d2-a2b958d29163	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:28	87d9f5a8-ac53-4b84-bbeb-d0b670264478	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:29	b702422e-55ee-4df7-8241-65111b10f0e7	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:29	9d05d1ad-b7ca-4007-8e7c-bd3ab7a3fe00	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:29	96bc5aa9-18d6-4d2e-95c9-7eca33c24208	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:29	60788869-f702-4fae-84ce-47c855af4ac1	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:29	dfd36c11-f4d0-466a-b08c-afcd8c20b229	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:46:29	89fc8074-ab63-4a66-a48f-4f54ad9378fa	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:47:00	bacdddb4-2edb-4364-bf07-c243a52f1f44	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:48:48	dc4d0bc7-24ac-4ef5-ab3e-1f7cb214d4e6	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:48:49	fb56e40b-e228-45ff-a2ad-734a6ad48b9e	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:48:49	0590c381-fc51-4041-87a5-d2cd92f6c218	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:48:49	7d6818e1-90f7-47a8-8ea6-9e3db4f3def9	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:49:31	e7e7a318-6bdb-4fff-a864-902ad553dc85	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:55:54	554ad688-bf21-4ebe-a430-6439b1364024	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:56:14	57ee1026-c54b-4a39-a0c8-0b05a22205c5	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:58:26	0a174e0e-edc0-453d-b789-ef67adb2386c	SyntaxError: Unexpected token ' in JSON at position 26
+20221130	23:58:27	c367d8e7-3c66-4859-afc9-b07bbf24a3c6	SyntaxError: Unexpected token ' in JSON at position 26
+20221201	00:00:02	155673b5-96ea-44a9-bb14-b3f2731e415b	SyntaxError: Unexpected token ' in JSON at position 26
+20221201	00:00:03	6ea2cd2c-fe61-4265-a4a5-9836061e59f9	SyntaxError: Unexpected token ' in JSON at position 26
+20221201	00:05:08	60a0f53c-7c08-46f6-8c1e-27a4d2d01d57	SyntaxError: Unexpected token ' in JSON at position 26
+20221201	00:12:37	81c693aa-8ee5-48cc-a0aa-6d8faa2b7242	SyntaxError: Unexpected token ' in JSON at position 26
+20221201	00:12:41	da3c9968-93c0-4e59-9dce-07cda30db984	SyntaxError: Unexpected token ' in JSON at position 27
+20221201	00:17:35	7e08c5da-6fec-496e-857c-6b7d5b03cf3d	SyntaxError: Unexpected token ' in JSON at position 27
+20221201	00:19:06	61092a7f-75b4-4feb-89d5-7c6f8386626d	SyntaxError: Unexpected token ' in JSON at position 27

@@ -1,4 +1,4 @@
-# "Express JS Tutorial - User Authorization"
+# "Node JS Tutorial Series - MongoDB with Mongoose: Schemas and Data Models"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
@@ -6,7 +6,7 @@
 
 This repository shares the code applied during the Youtube tutorial. The tutorial is part of a [Node.js & Express for Beginners Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw) on my channel.  
 
-[YouTube Tutorial](https://youtu.be/Nlg0JrUt0qg) for this repository.
+[YouTube Tutorial](https://youtu.be/jZ-dzj6ut54) for this repository.
 
 I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
 
