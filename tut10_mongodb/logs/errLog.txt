@@ -37,3 +37,4 @@
 20221201	00:12:41	da3c9968-93c0-4e59-9dce-07cda30db984	SyntaxError: Unexpected token ' in JSON at position 27
 20221201	00:17:35	7e08c5da-6fec-496e-857c-6b7d5b03cf3d	SyntaxError: Unexpected token ' in JSON at position 27
 20221201	00:19:06	61092a7f-75b4-4feb-89d5-7c6f8386626d	SyntaxError: Unexpected token ' in JSON at position 27
+20221206	20:52:08	0803d107-6332-40cb-b0b8-754f563d6e7a	SyntaxError: Unexpected token ' in JSON at position 27
